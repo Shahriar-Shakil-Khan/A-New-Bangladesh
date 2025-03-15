@@ -208,7 +208,7 @@ ul li{
  }
  .pillars{
     width: 302px;
-   
+    height: 244px;
     padding: 24px;
     border-radius:16px; 
     
@@ -223,5 +223,75 @@ ul li{
     padding:80px 135px;
  }
  
+.pillars1{
+    width: 410px;
+   
+    padding: 24px;
+    border-radius:16px; 
+    border: 1px solid rgba(97, 118, 105, 0.15);
+    background-color:rgba(84, 144, 245, 0.2);
+}
+.pillars2{
+    width: 410px;
+    
+    padding: 24px;
+    border-radius:16px; 
+    border: 1px solid rgba(97, 118, 105, 0.15);
+    background-color: rgba(198, 228, 214, 1);
+}
 
- 
+.pillars3{
+    width: 410px;
+    padding: 24px;
+    border-radius:16px; 
+    border: 1px solid rgba(97, 118, 105, 0.15);
+    background-color: rgba(247, 235, 207, 1);
+}
+
+.btn1{
+    width:122px;
+    height: 41px;
+    margin-top:24px;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+    background-color: rgba(84, 144, 245, 1);
+    border-radius: 8px;
+    
+}
+
+.btn2{
+    width:122px;
+    height: 41px;
+    margin-top:24px;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+    background-color:rgba(9, 161, 92, 1);
+    border-radius: 8px;
+    
+}
+
+.btn3{
+    width:122px;
+    height: 41px;
+    margin-top:24px;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+    background-color:rgba(255, 194, 57, 1);
+    border-radius: 8px;
+    
+}
+
+.btn1:hover{
+    background-color: rgb(85, 85, 168);
+}
+
+.btn2:hover{
+    background-color: rgb(36, 117, 48);
+}
+
+.btn3:hover{
+    background-color: rgb(204, 132, 51);
+}
