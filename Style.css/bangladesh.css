@@ -329,14 +329,14 @@ ul li{
 }
 
  
-  /* Container */
+ 
   .title-container {
     margin-top:80px;
     font-size: 35px;
     font-weight:bold ;
 }
 
-/* Main Container */
+
 .container {
     width:1245px;
     
@@ -347,14 +347,14 @@ ul li{
     
 }
 
-/* Opinion Box */
+
 .opinion-box {
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
 }
 
-/* Header Row */
+
 .header, .opinion-row {
    font-size: 20px;
     display: flex;
@@ -368,7 +368,7 @@ ul li{
     font-weight: bold;
 }
 
-/* Question & Dropdown */
+
 .question {
     font-size: 16px;
     font-weight: 600;
@@ -378,7 +378,7 @@ ul li{
     background-color:rgba(198, 228, 214, 1);
 }
 
-/* Dropdown Styling */
+
 select {
     padding: 6px;
     border: 1px solid #ccc;
